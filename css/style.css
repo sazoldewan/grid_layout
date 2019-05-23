@@ -1,0 +1,17 @@
+.header, .hero, .body, .bar, .footer{
+	padding: 20px;
+	background-color: #FFAEC9;
+	margin: 20px 0;
+}
+.bg{
+	background-color: #99D9EA;
+	height: 70px;
+	border: 3px solid green;
+	margin-bottom: 10px;
+}
+.bgc{
+	background-color: red;
+	height: 70px;
+	border: 3px solid green;
+	margin-bottom: 10px;
+}
